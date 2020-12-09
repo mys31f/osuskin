@@ -2,4 +2,6 @@ This is my own osu! skin, self made with guides on YouTube lul.
 
 Playlist of guides I used: https://www.youtube.com/playlist?list=PLwC6eYayKGMhkvkSGACRSblJqYmV7_9ZI
 
-Theme: don't know yet
+Theme: trying to be as minimal as possible
+
+All files are done in GIMP, font for everything would be Noto Sans CJK JP.
